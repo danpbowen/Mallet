@@ -11,3 +11,8 @@ dist/mallet.jar
 *.class
 mallet.iml
 test/TEST-*.*
+.Rproj.user
+.DS_Store
+Mallet.Rproj
+sample-data/.DS_Store
+src/.DS_Store
