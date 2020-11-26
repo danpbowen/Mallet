@@ -10,3 +10,6 @@ dist/mallet.jar
 .idea
 *.class
 mallet.iml
+.Rproj.user
+.Rhistory
+Mallet.Rproj
